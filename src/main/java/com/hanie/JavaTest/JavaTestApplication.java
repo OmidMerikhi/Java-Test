@@ -16,6 +16,7 @@ public class JavaTestApplication {
 	CommandLineRunner omidi(){
 		return args -> {
 			System.out.println("my name is omid:)");
+			System.out.println("i love hanie:)");
 		};
 	}
 
